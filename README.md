@@ -1,2 +1,2 @@
 # Business website
-Hosting website using github pages
+Hosting website using github pages.
